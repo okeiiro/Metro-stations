@@ -1,2 +1,2 @@
-# metro-stations
-TP du module Algorithme et Structures de Données Dynamiques
+# Stations Metro
+Programme qui permet la gestion de lignes et stations de metro
